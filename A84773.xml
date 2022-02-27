@@ -1,0 +1,153 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A cry for repentance, unto the inhabitants of London chieflie, and unto all the vvorld, whose fruits do shame their profession, and that they may come to yea and nay, in all their communications and dealings, that their life may judge the world; for who are out of that, are in the evil, and falls into the condemnation of the Devil. Given forth for the information of the simple, that they may know the way of life, and out of the evill communication which corrupts good manners.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84773</idno>
+            <idno type="STC">Wing F1779</idno>
+            <idno type="STC">Thomason E896_1</idno>
+            <idno type="STC">ESTC R204831</idno>
+            <idno type="EEBO-CITATION">99864294</idno>
+            <idno type="PROQUEST">99864294</idno>
+            <idno type="VID">168424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84773)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168424)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 135:E896[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A cry for repentance, unto the inhabitants of London chieflie, and unto all the vvorld, whose fruits do shame their profession, and that they may come to yea and nay, in all their communications and dealings, that their life may judge the world; for who are out of that, are in the evil, and falls into the condemnation of the Devil. Given forth for the information of the simple, that they may know the way of life, and out of the evill communication which corrupts good manners.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons at the Bull and Mouth neer Aldersgate.,</publisher>
+                  <pubPlace>Lonnon [sic] :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: G.F., i.e. George Fox.</note>
+                  <note>Annotation on Thomason copy: "Decemb: 1st.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines --  Early works to 1800.</term>
+               <term>Repentance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168424:1" rendition="simple:additions"/>
+            <p>A CRY FOR REPENTANCE, UNTO THE <hi>Inhabitants</hi> of <hi>London</hi> chieflie, AND Vnto all the <hi>WORLD,</hi> Whoſe fruits do ſhame their profeſ<g ref="char:EOLhyphen"/>ſion, and that they may come to yea and nay, in all their communications and dealings, that their life may judge the world; for who are out of that, are in the evil, and falls into the condemnation of the DEVIL.</p>
+            <p>Given forth for the information of the ſimple, that they may know the way of life, out of the evill communication which corrupts good manners.</p>
+            <p>
+               <hi>Lonnon,</hi> Printed for <hi>Thomas Simmons</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> neer <hi>Alderſgate.</hi> 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168424:2"/>
+            <pb n="1" facs="tcp:168424:2"/>
+            <head>A Cry for <hi>Repentance.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">R</seg>Epent, repent ye tradeſmen of Lon<g ref="char:EOLhyphen"/>don; repent ye Merchants &amp; great men of the City, the Day of the Lords hand is coming upon you; the day of the Lords Wrath is to be poured upon you who have lived in wickedneſſe, fulneſſe and gluttony, and ſerving the creatures more then the Creator, who is God bleſſed for ever; and ſerving your luſts more then Chriſt, and making your Bellies your Gods, fatting up your ſelves with the Creature, until you have forgotten God, until you grow proud and wanton: Alas! heap not up Treaſure upon earth, where Thieves, and Ruſt, and Canker is, but conſider all of you what Treaſure you have in Heaven: Ye Tradeſmen, and of whatſoever Calling you follow turn to the Lord by Repentance: Ye Watermen and Fiſhermen repent, and put away your evil, &amp; turn to the Lord to Repentance whileſt you have a day of Mercie offered you: Ye poorer ſort of people, who are drudging labouring and toiling in the earth under the great ones, repent: All ye ſmall and great, is not your labor for
+<pb n="2" facs="tcp:168424:3"/>the mouth and Apparel, yet your Appetite, your Luſt and Eye is not ſatisfied: Ye Teachers of the people, called Prieſts, who are got into the high places; Repent, and give over deceiving them, that ye may be found in the life of what you profeſſe: And ye Rulers and Magiſtrates of what ſort ſoever, high and low, ſmall and great, repent, repent, that ye may be found all in Juſtice &amp; Judgment, that this may run down your Streets, and in them righteouſneſſe reign, and the Streams and Floods of ungodlineſſe may not run down, but be ſtopt: Ye proud and idle people, men andwomen, repent, and come to acknowledge the Lord the Creator; and ye proud of the earth, great, rich and ſmall, turn, turn to the Lord: And all you Lawyers repent whatſoever, that oppreſ<g ref="char:EOLhyphen"/>ſion may be taken off, and exacting there may be no more; and mercie may be ſhewed to the helpleſſe, and the Jaws of the wicked may be broken that would woory and rend, and tear the innocent to pieces, that the oppreſſed, the needy, and the helpleſſe may be ſought out, and of his burthen eaſed that the Lord may bleſſe you: And all ye Husband<g ref="char:EOLhyphen"/>men, Tillers of the earth, or Keepers of Cattle, repent, that your mindes may be brought out of the earth, and ye turn<g ref="char:EOLhyphen"/>ed unto the Lord, and that your mindes may be brought out of the greedineſs of gain; ye buyers and ſellers of Cat<g ref="char:EOLhyphen"/>tel, and all others that are greedy of Gain, greedy after the earth greedy after riches, greedy after faſhions, for this will men and women deſtroy one another, the world of un<g ref="char:EOLhyphen"/>godly ones will deſtroy one another with lies and flatterie, through greedineſſe after Gain and the earth; Repent, the voice and ſound of Repentance is cried through you all, which reacheth to the root of you all; and the Ax is laid to the root of the Tree, and every Tree that doth not bring forth good fruit to the Lord God muſt be caſt into the fire; for the cry and voice of Repentance is ſounded and ſounds through you all, rich and poor, ſmall and great: All Tradeſmen, Lawyers, Merchants, Seamen, Husbandmen, Tra<g ref="char:EOLhyphen"/>ders among Cattel, Judges, Juſtices, Rulers and Magiſtrates, and ye idle people of the Land, repent, for the day of the
+<pb n="3" facs="tcp:168424:3"/>Lords Wrath is at hand; his Vial is to be poured out on you all. And again all you Tradeſmen, Merchantmen whatſoe<g ref="char:EOLhyphen"/>ver, or Rulers, or Judges, or Juſtices, or Lawyers, or Huſ<g ref="char:EOLhyphen"/>bandmen or buyers or ſellers of Cattel, keepe to yea and nay in all your communication, whatſoever is more is evil: Is it not as wel to ſay yea, and nay, as to uſe ſo many words? Is it not as good to keep to yea and nay to keep you out of the evil? This is the Word of the Lord God to you all men whatſoever.</p>
+            <p>And again you Tradeſmen, Merchantmen of all ſorts whatſoever, buyers and ſellers, ſet no more upon the thing you ſell or exchange but what you will have; is it not better and more eaſe to have done at a word, then to ask double or more? Doth not this bring you into many vain words, and complements, and talks that fills the vain minde? This is de<g ref="char:EOLhyphen"/>ceitful before God and man. And is it not more ſavoury to ask no more then you will have for your Commodity, to keep to yea and nay in your Communication, when you converſe in your Calling, then to ask more then you will take? and ſo is not there the many words where's the multi<g ref="char:EOLhyphen"/>plying of ſins? This is the Word of the Lord to you, Ask no more then you will have for your Commodity, and keep to yea and nay in your Communication, and here will be an equal ballancing of things, and a conſideration before you utter words, and a uſeing of this world as though you uſed it not; and a poſſeſſing as though you poſſeſſed not; and ſo you will come to ſhew a life like Chriſtians, and the ſpirit like Chriſtians, &amp; you a people in Chriſts Doctrine, that loves his Doctrine which keep to yea &amp; nay in your communication; &amp; you wil not be a people that be high, and proud, and loftie ſo a child ſhall trade with you as a man, becauſe of the Equitie, and yea &amp; nay, and righteouſneſſe &amp; true weighing of things, and true conſideration of things, and people ſhall not be a<g ref="char:EOLhyphen"/>fraid of one cheating the other, or deſtroying one the other where truth and equitie is among them, and mercie and righteouſneſſe, and no more is ſet upon the thing then what they wil take, who are in their yea and nay in their Commu<g ref="char:EOLhyphen"/>nication
+<pb n="4" facs="tcp:168424:4"/>here is the conſideration before words be uttered, and where the power is over the tongue, the life of a Chri<g ref="char:EOLhyphen"/>ſtian is ſeen.</p>
+            <p>Ye Porters and other Laborers, and light and looſe peo<g ref="char:EOLhyphen"/>ple, repent; and all ye labouring people whatſoever, and Judges of the earth, repent, repent, and turn to the Lord God, leſt againſt you the Lords hand be turned ſpeedily, and you be found thoſe that are convinced, and do not repent, to give glory to the Lord God, leſt into the bed of ſickneſſe ye be caſt, and ſudden Judgements and Plagues come upon you, for God is able to abaſe the Pride &amp; Vanitie, who have boaſted in Hils for ſalvation who cannot ſave themſelves; therefore all ye that have lived unrepented, whoſe lives<g ref="char:punc">▪</g> are not changed, you are them that have cumbred the ground; fruitleſſe Trees that hath not brought forth fruit to God; therefore hath the ſtreams of ungodlineſſe, ſtreams of un<g ref="char:EOLhyphen"/>righteouſneſſe, rivers of wickedneſſe, floods of many wa<g ref="char:EOLhyphen"/>te<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s running ſo up and down the Nations of the World, which the woman ſet upon which ſits upon the beaſt; ſo hath Chriſtians been an ill ſavour, their Converſation, their Com<g ref="char:EOLhyphen"/>munication, who hath been out of the Yea and Nay, the Righteouſneſſe and Judgement and are more then at a word in their Calling and Trading, and Commerce with people, which the Heathen which are not Chriſtians, theſe judge them as the Gentiles the Jews. Oh ye Chriſtians, let your wayes judge the Heathen, let your Lives, Communication, Converſation judge the heathen; let it not be in the earth, but in heaven; ask no more for the Commoditie you ex<g ref="char:EOLhyphen"/>change then you would have. You Tradeſmen, Buyers and Sellers of all ſorts, or Hirers of Labourers, at a word ſpeak, and ſee before you ſpeak keep to <hi>yea</hi> and <hi>nay</hi> in all your Com<g ref="char:EOLhyphen"/>munications, this will keep you out of the evil, whatſoever is more comes of evil; with this will you come to anſwer that of God in the Heathen, who in righteouſneſſe God will judge. Alas for you! all your Profeſſion of the Scriptures, of the Apoſtles, Chriſts and Prophets words, and you be found out of the life of the Prophets, Chriſt and the Apo<g ref="char:EOLhyphen"/>ſtles,
+<pb n="5" facs="tcp:168424:4"/>ye are but as the Jews were, which Chriſt ſaid the De<g ref="char:EOLhyphen"/>vil was their Father; and as the Phariſees, Scribes and Prieſts which Chriſt cried wo againſt, called whited walls and graves, vipers and ſerpents, venoming and poyſoning one the other, being not in the life the Scripture was given forth from, are found ſuch as the Apoſtles ſpake of, vain Janglers about words, and vain Diſputers, and bring the Scriptures to op<g ref="char:EOLhyphen"/>poſe one another, and diſputing of Chriſt and the Saints words, brings Scripture as the Devil did, are out out of the life that gave it forth, and diſputing about the Body of <hi>Mo<g ref="char:EOLhyphen"/>ſe,</hi> ſuch be in the unrepented eſtate, which eat and drink damnation to themſelves, not diſcerning the Lords Body; therefore be ye warned. This is the Word of the Lord God to you all ye Rulers of the earth, that righteouſneſſe mercy, &amp; judgment and equitie may run down, ſtreaming in the Na<g ref="char:EOLhyphen"/>tion, that the oppreſſed may feel relief, and the peaceable ea<g ref="char:EOLhyphen"/>ſed, and the poor and needy may not be turned away, that this may run down; all that which is called Chriſtendom, that profeſſeth Chriſt who is come to reign, and ſet up his King<g ref="char:EOLhyphen"/>dom in Power, and Authoritie, and Majeſty, who raiſeth up Jealouſie as a man of War in all unrepented ones, that the thoughts of men are full, and their imaginations and concei<g ref="char:EOLhyphen"/>vings are at work: But the Lord is riſen and riſing, who will make waſte him that hath made deſolate, who will judge righteouſlie, according to the ſecrets of every mans heart, who will enter into the houſe, bind the ſtrong man, and ſpoil his Goods. <hi>The heart of all will I ſearch ſaith the Lord, the re<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns of all will I try; the wayes of all will I bring to light; the spirits of all will I manifeſt, and according to them wil I judge, who wil make every one to confeſs that my wayes and judgements are righteous, and rendreth to every one a reward according to his works, whether they be good, or whether they be evil; I come quickly, and my reward is with me ſaith the Lord God Almigh<g ref="char:EOLhyphen"/>ty, and there is nothing ſhall eſcape in the heart, but its ſecrets ſhall be revealed, and the things that thou haſt done in the body ſhalt thou give accompt for; I will exalt my kingdom, and ſet it upon the higheſt Throne who tread Dominions and Principali<g ref="char:EOLhyphen"/>ties
+<pb n="6" facs="tcp:168424:5"/>under my feet, who puts down the authority, who bears my Government upon my ſhoulders; the Lord our righteouſneſs is his name, who judgeth according to the ſecrets of every mans heart who doth enlighten every man that cometh into the world, with which he ſhall ſee when he doth evil, and when he doth wrong, which is his condemnation that hate it; but he that loves the Light which he is enlightned withal, and believes in it, ſhall re<g ref="char:EOLhyphen"/>ceive the Light of Life.</hi>
+            </p>
+            <p>And all you makers of Images, and makers of Baubles and Toys to pleaſe the Luſts and Vanitie of people; Repent, re<g ref="char:EOLhyphen"/>pent, leſt God conſume you with the Vanity; Repent, leſt God lay you in the duſt with them, and make you like unto them. And all you that delight in fine Houſes, and Apparel, and the eyes are fixed in thoſe things; repent, leaſt God de<g ref="char:EOLhyphen"/>ſtroy you with them. And all you Star gazers and Tellers of Fortunes, and drawing people to gaze after your fancie more then after the Lord, repent, and be ſilent, and cover your lips, and give over your witchcraft, leſt God cut you off, and deſtroy you, and make a ſudden end of you for your heap of confuſion that hath long reigned and ruled againſt the Lord; Gods Arm is turned, with which he will gather his people to himſelf<g ref="char:punc">▪</g> the Furnace is prepared; the Oven is provided, and the high buildings ſhall be laid low, and the Cities waſte and without Inhabitants: The Lord God is bringing his people to his City, and many are in their way wandring to it; and many are entred into their reſt. There<g ref="char:EOLhyphen"/>fore to you repented ones is this, and to you unrepented ones, that you may come to ſee the way hither out of the earth, clay and unrighteous, the way and path of life, which leads to God the Father of Life: And to you this is the word of the Lord God, from him that dwells in that which com<g ref="char:EOLhyphen"/>prehends the world, and anſwered this ſhall be with that of God in every one of you,</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <postscript>
+               <p>Have not Ribans, Jewels, Images and Baubles carried away the eyes and hearts of people, which bringeth them to looſe ſince<g ref="char:EOLhyphen"/>rity; O repent ye whoſe hearts and eyes are given to vanity, leaſt the Lord come upon you like Morter and Clay, and tread you to pieces like Potſherds:</p>
+            </postscript>
+         </div>
+         <trailer>FINIS:</trailer>
+      </body>
+   </text>
+</TEI>
